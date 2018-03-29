@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "VDB-Landesverband Hessen"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Library Carpentry, VDB-Landesverband Hessen"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Alexander-von-Humboldt-Gästehaus der Justus-Liebig-Universität Giessen, Rathenaustraße 24 A, 35394 Gießen"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)

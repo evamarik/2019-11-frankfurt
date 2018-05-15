@@ -157,7 +157,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   Display the contact email address set in the configuration file.
 {% endcomment %}
 <p id="contact">
-  <strong>Contact</strong>:
+  <strong>Contact and Registration</strong>:
   Please email
   {% if page.email %}
     {% for email in page.email %}

@@ -108,6 +108,21 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 {% endif %}
 
 {% comment %}
+  ORGANIZATION
+
+  This block displays home institutions of instructors and helpers and acknowledges funding.
+{% endcomment %}
+<p id="organization">
+  <strong>Organization:</strong> We are happy to receive financial support
+	for this workshop by The Association of German Librarians
+	(VDB - Verein Deutscher Bibliothekarinnen und Bibliothekare).
+	The workshop is jointly organized by VDB-Landesverband Hessen
+	and instructors and helpers from Justus-Liebig-Universität Gießen (JLU),
+	Technische Informationsbibliothek Hannover (TIB), Technische Universität Darmstadt (TUDa),
+	and Philipps-Universität Marburg (UMR).  
+</p>
+
+{% comment %}
   SPECIAL REQUIREMENTS
 
   Modify the block below if there are any special requirements.

@@ -255,6 +255,10 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   {% include lc/syllabus.html %}
 {% endif %}
 
+<p> For more information, please have a look at
+	<a href="https://librarycarpentry.github.io">librarycarpentry.github.io</a>.
+</p>
+
 <hr/>
 
 {% comment %}

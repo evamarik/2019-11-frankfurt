@@ -256,7 +256,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 {% endif %}
 
 <p> For more information, please have a look at
-	<a href="https://librarycarpentry.github.io">librarycarpentry.github.io</a>.
+	<a href="http://librarycarpentry.org/">librarycarpentry.org</a>.
 </p>
 
 <hr/>

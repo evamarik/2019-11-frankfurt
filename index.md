@@ -173,8 +173,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   {% else %}
     to-be-announced
   {% endif %}
-  for more information or have a look at 
-  <a href="https://www.vdb-online.org/veranstaltung/767/">vdb-online.org/veranstaltung/767/</a> (in German).
+  for more information.
 </p>
 
 {% comment %}

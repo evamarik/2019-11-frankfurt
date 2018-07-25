@@ -158,22 +158,8 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 {% endcomment %}
 <p id="contact">
   <strong>Contact and Registration</strong>:
-  Please email
-  {% if page.email %}
-    {% for email in page.email %}
-      {% if forloop.last and page.email.size > 1 %}
-        or
-      {% else %}
-        {% unless forloop.first %}
-        ,
-        {% endunless %}
-      {% endif %}
-      <a href='mailto:{{email}}'>{{email}}</a>
-    {% endfor %}
-  {% else %}
-    to-be-announced
-  {% endif %}
-  for more information.
+  Please have a look at <a href="https://www.vdb-online.org/veranstaltung/800/</a>  
+  for further information.
 </p>
 
 {% comment %}

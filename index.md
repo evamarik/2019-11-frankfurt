@@ -158,7 +158,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 {% endcomment %}
 <p id="contact">
   <strong>Contact and Registration</strong>:
-  Please have a look at <a href="https://www.vdb-online.org/veranstaltung/800/">www.vdb-online.org/veranstaltung/800/<</a>  
+  Please have a look at <a href="https://www.vdb-online.org/veranstaltung/800/">vdb-online.org/veranstaltung/800/</a>
   for further information.
 </p>
 

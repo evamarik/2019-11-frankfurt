@@ -179,8 +179,8 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
  <a href="https://www.zbmed.de">
    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
  </a>
- <a href="https://www.zbmed.de">
-   <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_B/jpg/Uni_Aug_Logo_Basis_pos_B.jpg" alt="Augsburg University" height="100"/>
+ <a href="https://www.uni-augsburg.de">
+   <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_B/eps/Uni_Aug_Logo_Basis_pos_B.eps" alt="Augsburg University" height="100"/>
  </a>
 </p>
 

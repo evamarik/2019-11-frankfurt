@@ -175,6 +175,12 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 
 <hr/>
 
+<p>
+ <a href="https://www.zbmed.de">
+   <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
+ </a>
+</p>
+
 {% comment %}
   SCHEDULE
 

@@ -10,8 +10,8 @@ humandate: "November 12-13, 2018"    # human-readable dates for the workshop (e.
 humantime: "10:00 am - 6:00 pm, 8:30 am - 4:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-11-12      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-11-13        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Konrad Förstner", "Evamaria Krause", "NN"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Markus Hennies", "NN"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Konrad Förstner (ZB MED)", "Evamaria Krause (UBA)", "NN"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Markus Hennies (HdM)", "NN"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["evamaria.krause@bibliothek.uni-augsburg.de"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 ---
@@ -171,6 +171,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   <strong>Organization:</strong> We are happy to receive financial support
 	for this workshop by The Association of German Librarians
 	(VDB - Verein Deutscher Bibliothekarinnen und Bibliothekare).  
+	The workshop is jointly organized by VDB-Landesverband Nordrhein-Westfalen and instructors and helpers from ZB MED - Informationszentrum Lebenswissenschaften (ZB MED), Universitätsbibliothek Augsburg (UBA), and Hochschule der Medien Stuttgart (HdM).
 </p>
 
 <hr/>

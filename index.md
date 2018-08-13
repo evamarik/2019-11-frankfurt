@@ -184,6 +184,10 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
    <!-- <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_A/png/Uni_Aug_Logo_Basis_pos_A.png" alt="Augsburg University" height="100"/> -->
    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_uni_augsburg.jpg" alt="Augsburg University" height="100"/>
  </a>
+  <a href="https://www.hdm-stuttgart.de/">
+   <img src="https://www.hdm-stuttgart.de/centralImages/logo_150.jpg" alt="HdM Stuttgart" height="100"/>
+ </a>
+ 
 </p>
 
 {% comment %}

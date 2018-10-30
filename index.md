@@ -171,7 +171,7 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
   <strong>Organization:</strong> We are happy to receive financial support
 	for this workshop by The Association of German Librarians
 	(VDB - Verein Deutscher Bibliothekarinnen und Bibliothekare).  
-	The workshop is jointly organized by VDB-Landesverband Nordrhein-Westfalen and instructors and helpers from ZB MED - Informationszentrum Lebenswissenschaften (ZB MED), Universitätsbibliothek Augsburg (UBA), and Hochschule der Medien Stuttgart (HdM).
+	The workshop is jointly organized by VDB-Landesverband Nordrhein-Westfalen and instructors and helpers from ZB MED - Informationszentrum Lebenswissenschaften (ZB MED), Universitätsbibliothek Augsburg (UBA), TIB - Leibniz-Informationszentrum Technik und Naturwissenschaften und Universitätsbibliothek (TIB) and Hochschule der Medien Stuttgart (HdM).
 </p>
 
 <hr/>
@@ -183,6 +183,9 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
  <a href="https://www.uni-augsburg.de">
    <!-- <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_A/png/Uni_Aug_Logo_Basis_pos_A.png" alt="Augsburg University" height="100"/> -->
    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_uni_augsburg.jpg" alt="Augsburg University" height="100"/>
+ </a>
+  <a href="https://www.tib.eu/de/">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/TIB_Logo_DE_325px.png" alt="TIB" height="100"/>
  </a>
   <a href="https://www.hdm-stuttgart.de/">
    <img src="https://www.hdm-stuttgart.de/centralImages/logo_150.jpg" alt="HdM Stuttgart" height="100"/>

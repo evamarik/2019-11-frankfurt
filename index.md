@@ -295,21 +295,15 @@ collaborative_notes: https://hackmd.io/uMfNdZeyThWSFBO0Dkpe0g#            # opti
 </p>
 
 
-<div id="git"> {% comment %} Start of 'Git' section. GitHub browser compatability
-           is given at https://help.github.com/articles/supported-browsers/{% endcomment %}
-  <h3>Git</h3>
+<div id="git">
+  <h3>GitHub Desktop</h3>
   <p>
-    Git is a version control system that lets you track who made changes
-    to what when and has options for easily updating a shared or public
-    version of your code
-    on <a href="https://github.com/">github.com</a>. You will need a
+    Git is a version control system that lets you track who made what changes when.
+    It's primarily a command line tool, while GitHub Desktop is a graphical interface.
+    These tracked changed can easily be shared or published, for example on 
+    <a href="https://github.com/">GitHub.com</a>. For the latter, you will need a
     <a href="https://help.github.com/articles/supported-browsers/">supported</a>
-    web browser (current versions of Chrome, Firefox or Safari,
-    or Internet Explorer version 9 or above).
-  </p>
-  <p>
-    You will need an account at <a href="https://github.com/">github.com</a>
-    for parts of the Git lesson. Basic GitHub accounts are free. We encourage
+    web browser and an account. Basic GitHub accounts are free. We encourage
     you to create a GitHub account if you don't have one already.
     Please consider what personal information you'd like to reveal. For
     example, you may want to review these
@@ -319,33 +313,15 @@ collaborative_notes: https://hackmd.io/uMfNdZeyThWSFBO0Dkpe0g#            # opti
 
   <div class="row">
     <div class="col-md-4">
-      <h4 id="git-windows">Windows</h4>
+      <h4 id="git-windows-mac">Windows and macOS</h4>
       <p>
-        Git should be installed on your computer as part of your Bash
-        install (described above).
-      </p>
-    </div>
-    <div class="col-md-4">
-      <h4 id="git-macosx">macOS</h4>
-      <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">Video Tutorial</a>
-      <p>
-        <strong>For OS X 10.9 and higher</strong>, install Git for Mac
-        by downloading and running the most recent "mavericks" installer from
-        <a href="http://sourceforge.net/projects/git-osx-installer/files/">this list</a>.
-        After installing Git, there will not be anything in your <code>/Applications</code> folder,
-        as Git is a command line program.
-        <strong>For older versions of OS X (10.5-10.8)</strong> use the
-        most recent available installer labelled "snow-leopard"
-        <a href="http://sourceforge.net/projects/git-osx-installer/files/">available here</a>.
+	Please <a href="https://desktop.github.com/">download the official installer</a> and run it. 
       </p>
     </div>
     <div class="col-md-4">
       <h4 id="git-linux">Linux</h4>
       <p>
-        If Git is not already available on your machine you can try to
-        install it via your distro's package manager. For Debian/Ubuntu run
-        <code>sudo apt-get install git</code> and for Fedora run
-        <code>sudo dnf install git</code>.
+        Please <a href="https://github.com/shiftkey/desktop/releases">download this inofficial installer</a> and run it.
       </p>
     </div>
   </div>

@@ -351,8 +351,7 @@ collaborative_notes: https://hackmd.io/uMfNdZeyThWSFBO0Dkpe0g#            # opti
     If you haven't, we suggest you install <a href="https://atom.io/">Atom</a>,
     because that's what we'll be using in the Git lesson of this workshop.	
   </p>
-  
-  </div>
+ 
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if

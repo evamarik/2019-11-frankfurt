@@ -183,9 +183,12 @@ collaborative_notes:          # optional: URL for the workshop collaborative not
  <a href="https://www.zbmed.de">
    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
  </a>
+ 
+{% comment %}
    <a href="https://www.tib.eu/de/">
    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/TIB_Logo_DE_325px.png" alt="TIB" height="100"/>
  </a>
+{% endcomment %}
  
 <p> 
  <a href="https://www.uni-augsburg.de">

@@ -179,7 +179,7 @@ collaborative_notes:          # optional: URL for the workshop collaborative not
 {% endcomment %}
 
 <hr/>
-
+<p>
  <a href="https://www.zbmed.de">
    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
  </a>
@@ -190,7 +190,7 @@ collaborative_notes:          # optional: URL for the workshop collaborative not
  </a>
  {% endcomment %}
  
-<p> 
+
  <a href="https://www.uni-augsburg.de">
    <!-- <img src="https://www.uni-augsburg.de/allgemeines/cd/download/01_Logo/Logo_Basis_A/png/Uni_Aug_Logo_Basis_pos_A.png" alt="Augsburg University" height="100"/> -->
    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Logo_uni_augsburg.jpg" alt="Augsburg University" height="100"/>
@@ -201,10 +201,11 @@ collaborative_notes:          # optional: URL for the workshop collaborative not
  <a href="https://www.ub.uni-frankfurt.de/">
    <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
  </a>
+ {% comment %}	
 <a href="https://www.vdb-online.org/">
-   <img src="https://jobs.openbiblio.eu/wp-content/uploads/sites/2/VDB_Logo-300x180.jpg" alt="VDB" height="100"/>
+   <img src="" alt="VDB" height="100"/>
  </a>
- 
+  {% endcomment %}
 </p>
 
 

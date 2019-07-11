@@ -198,6 +198,12 @@ collaborative_notes:          # optional: URL for the workshop collaborative not
   <a href="https://www.hdm-stuttgart.de/">
    <img src="https://www.hdm-stuttgart.de/centralImages/logo_150.jpg" alt="HdM Stuttgart" height="100"/>
  </a>
+ <a href="https://www.ub.uni-frankfurt.de/">
+   <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
+ </a>
+<a href="https://www.vdb-online.org/">
+   <img src="https://jobs.openbiblio.eu/wp-content/uploads/sites/2/VDB_Logo-300x180.jpg" alt="VDB" height="100"/>
+ </a>
  
 </p>
 

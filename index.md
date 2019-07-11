@@ -207,7 +207,7 @@ collaborative_notes:          # optional: URL for the workshop collaborative not
  </a>
   {% endcomment %}
 </p>
-
+<hr/>
 
 {% comment %}
   SCHEDULE

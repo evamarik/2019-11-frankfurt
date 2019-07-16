@@ -151,18 +151,28 @@ collaborative_notes:          # optional: URL for the workshop collaborative not
   attempt to provide them.
 </p>
 
+
+<p id="furtherInfo">
+  <strong>Further information</strong>:
+	
+Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others. Please transfer your participation fee to VDB Landesverband Hessen, Kreissparkasse Tübingen, IBAN: DE75 6415 0020 0002 9739 77, BIC: SOLADES1TUB. Catering is included during the workshop. For overnight accomodation (not included) please see <a href="https://www.frankfurt-tourismus.de/Uebernachten-Hotels">www.frankfurt-tourismus.de</a>. 
+{% comment %}
+If the participants are interested, a joint dinner is possible at <a href=""></a> (not included). Please let us know when you register.
+
+{% endcomment %}
+</p>
+
 {% comment %}
   CONTACT EMAIL ADDRESS
 
   Display the contact email address set in the configuration file.
 {% endcomment %}
-{% comment %}
+
 <p id="contact">
-  <strong>Contact and Registration</strong>:
-  Please have a look at <a href="https://www.vdb-online.org/veranstaltung/800/">vdb-online.org/veranstaltung/800/</a>
-  for further information.
+  <strong>Registration/Contact</strong>: Please register via email until 15.10.2019: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>.
+  
 </p>
-{% endcomment %}
+
 
 {% comment %}
   ORGANIZATION

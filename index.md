@@ -190,6 +190,9 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
 
 <hr/>
 <p>
+<a href="https://www.vdb-online.org"> 
+   <img src="img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
+ </a>
  <a href="https://www.zbmed.de">
    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
  </a>
@@ -210,9 +213,6 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
  </a>
  <a href="https://www.ub.uni-frankfurt.de/">
    <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
- </a>
- <a href="https://www.vdb-online.org"> 
-   <img src="img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
  </a>
  </p>
 <hr/>

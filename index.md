@@ -192,7 +192,7 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
 <p>
 <a href="https://www.vdb-online.org"> 
    <img src="img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
- </a>
+ </a><br/>
  <a href="https://www.zbmed.de">
    <img src="https://www.zbmed.de/typo3conf/ext/dreipc_zbmed/Resources/Public/Image/ZBMED_2017_DE.svg" alt="ZB MED" height="100"/>
  </a>

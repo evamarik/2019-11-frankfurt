@@ -211,12 +211,10 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
  <a href="https://www.ub.uni-frankfurt.de/">
    <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
  </a>
- {% comment %}	
-<a href="https://www.vdb-online.org/">
-   <img src="" alt="VDB" height="100"/>
+ <a href="https://www.vdb-online.org"> 
+   <img src="img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
  </a>
-  {% endcomment %}
-</p>
+ </p>
 <hr/>
 
 {% comment %}

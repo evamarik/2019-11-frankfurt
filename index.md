@@ -169,7 +169,7 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
 {% endcomment %}
 
 <p id="contact">
-  <strong>Registration/Contact</strong>: Please register via email until 15.10.2019: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>.
+  <strong>Registration/Contact</strong>: Please register via email until 15.10.2019: <a href="mailto:lv.hessen@vdb-online.org">lv.hessen@vdb-online.org</a>. Maximum number of participants: 25.
   
 </p>
 

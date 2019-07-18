@@ -449,7 +449,7 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
     optimized for writing code, with features like automatic
     color-coding of key words.  The default text editor on macOS and
     Linux is usually set to Vim, which is not famous for being
-    intuitive.  if you accidentally find yourself stuck in it, try
+    intuitive.  If you accidentally find yourself stuck in it, try
     typing the escape key, followed by <code>:q!</code> (colon, lower-case 'q',
     exclamation mark), then hitting Return to return to the shell.
   </p>
@@ -462,8 +462,8 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
     <a href="http://www.barebones.com/products/textwrangler/">Text Wrangler</a>, 
     <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>, or
     <a href="http://kate-editor.org/">Kate</a>) please stick to using it.
-    If you haven't, we suggest you install <a href="https://atom.io/">Atom</a>,
-    because that's what we'll be using in the Git lesson of this workshop.	
+    If you haven't, we suggest you install <a href="https://atom.io/">Atom</a>.
+	{% comment %}, because that's what we'll be using in the Git lesson of this workshop.{% endcomment %	
   </p>
  
 </div> {% comment %} End of 'editor' section. {% endcomment %}

@@ -463,7 +463,8 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
     <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>, or
     <a href="http://kate-editor.org/">Kate</a>) please stick to using it.
     If you haven't, we suggest you install <a href="https://atom.io/">Atom</a>.
-	{% comment %}, because that's what we'll be using in the Git lesson of this workshop.{% endcomment %	
+	
+	{% comment %}, because that's what we'll be using in the Git lesson of this workshop.{% endcomment %}	
   </p>
  
 </div> {% comment %} End of 'editor' section. {% endcomment %}

@@ -184,7 +184,7 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
   <strong>Organization:</strong> We are happy to receive financial support
 	for this workshop by The Association of German Librarians
 	(VDB - Verein Deutscher Bibliothekarinnen und Bibliothekare).  
-	The workshop is jointly organized by VDB-Landesverband Hessen, Universitätsbibliothek Frankfurt, and instructors and helpers from Hochschule der Medien Stuttgart, Universitätsbibliothek Augsburg, Justus-Liebig-Universität Gießen, and ZB MED - Informationszentrum Lebenswissenschaften.
+	The workshop is jointly organized by VDB-Landesverband Hessen, Universitätsbibliothek Frankfurt, and instructors and helpers from Hochschule der Medien Stuttgart, Universitätsbibliothek Augsburg, Universitätsbibliothek Gießen, and ZB MED - Informationszentrum Lebenswissenschaften.
 </p>
 
 

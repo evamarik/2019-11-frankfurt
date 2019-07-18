@@ -179,14 +179,14 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
 
   This block displays home institutions of instructors and helpers and acknowledges funding.
 {% endcomment %}
-{% comment %}
+
 <p id="organization">
   <strong>Organization:</strong> We are happy to receive financial support
 	for this workshop by The Association of German Librarians
 	(VDB - Verein Deutscher Bibliothekarinnen und Bibliothekare).  
-	The workshop is jointly organized by VDB-Landesverband Hessen and instructors and helpers from ... .
+	The workshop is jointly organized by VDB-Landesverband Hessen, Universitätsbibliothek Frankfurt, and instructors and helpers from Hochschule der Medien Stuttgart, Universitätsbibliothek Augsburg, Justus-Liebig-Universität Gießen, and ZB MED - Informationszentrum Lebenswissenschaften.
 </p>
-{% endcomment %}
+
 
 <hr/>
 <p>

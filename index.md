@@ -211,6 +211,10 @@ If the participants are interested, a joint dinner is possible at <a href=""></a
   <a href="https://www.hdm-stuttgart.de/">
    <img src="https://www.hdm-stuttgart.de/centralImages/logo_150.jpg" alt="HdM Stuttgart" height="100"/>
  </a>
+ 
+ <a href="https://www.uni-giessen.de/ub/de">
+   <img src="https://www.uni-giessen.de/ub/bilder/ublogo/image" alt="UB Gießen" height="100"/>
+ </a>
  <a href="https://www.ub.uni-frankfurt.de/">
    <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
  </a>
